@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190">
+<style>
+.mono{font-family:ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace;font-size:14px} .big{font-family:ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace;font-size:24px}
+@keyframes m0{0%{opacity:0}0.00%{opacity:0}0.07%,31.00%{opacity:1}33.00%,100%{opacity:0}}.m0{opacity:0;animation:m0 15.0s linear infinite}@keyframes t0{0%,0.00%{transform:translateX(0)}12.40%,100%{transform:translateX(573px)}}.t0{animation:t0 15.0s steps(39) infinite}@keyframes m1{0%{opacity:0}33.33%{opacity:0}33.40%,64.33%{opacity:1}66.33%,100%{opacity:0}}.m1{opacity:0;animation:m1 15.0s linear infinite}@keyframes t1{0%,33.33%{transform:translateX(0)}47.07%,100%{transform:translateX(646px)}}.t1{animation:t1 15.0s steps(44) infinite}@keyframes m2{0%{opacity:0}66.67%{opacity:0}66.73%,97.67%{opacity:1}99.67%,100%{opacity:0}}.m2{opacity:0;animation:m2 15.0s linear infinite}@keyframes t2{0%,66.67%{transform:translateX(0)}80.40%,100%{transform:translateX(646px)}}.t2{animation:t2 15.0s steps(44) infinite}@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}.cur{animation:blink 1s steps(1) infinite}
+@media (prefers-reduced-motion: reduce){*{animation:none!important} .m0{opacity:1!important} .t0{transform:translateX(2000px)!important}}
+</style>
+<defs><clipPath id="box"><rect x="21" y="21" width="1158" height="148" rx="11"/></clipPath></defs>
+<rect x="20" y="20" width="1160" height="150" rx="12" fill="#010409" stroke="#30363d"/>
+<circle cx="50" cy="48" r="5" fill="#f85149"/><circle cx="68" cy="48" r="5" fill="#d29922"/><circle cx="86" cy="48" r="5" fill="#3fb950"/>
+<text x="1150" y="53" text-anchor="end" class="mono" fill="#7d8590">now.sh</text>
+<text x="60" y="92" class="mono" style="font-size:16px" fill="#3fb950">$ whoami --now</text>
+<g clip-path="url(#box)"><g class="m0"><text x="60" y="132" class="big" fill="#e6edf3">open for freelance: full stack web apps</text><g class="t0"><rect x="59" y="106" width="1100" height="36" fill="#010409"/><rect class="cur" x="61" y="110" width="12" height="28" fill="#58a6ff"/></g></g><g class="m1"><text x="60" y="132" class="big" fill="#e6edf3">building .NET Core APIs + Angular front ends</text><g class="t1"><rect x="59" y="106" width="1100" height="36" fill="#010409"/><rect class="cur" x="61" y="110" width="12" height="28" fill="#58a6ff"/></g></g><g class="m2"><text x="60" y="132" class="big" fill="#e6edf3">send me an idea, I'll ship the first version</text><g class="t2"><rect x="59" y="106" width="1100" height="36" fill="#010409"/><rect class="cur" x="61" y="110" width="12" height="28" fill="#58a6ff"/></g></g></g>
+</svg>

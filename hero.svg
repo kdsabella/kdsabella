@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420">
+<style>
+.sans{font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif} .mono{font-family:ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace;font-size:15px}
+@keyframes s0{0%,6.09%{opacity:0}6.60%,85.79%{opacity:1}89.85%,100%{opacity:0}}.l0{opacity:0;animation:s0 9.85s linear infinite}@keyframes c0{0%,6.09%{transform:translateX(0)}11.17%,100%{transform:translateX(397px)}}.c0{animation:c0 9.85s steps(8) infinite}@keyframes s1{0%,14.72%{opacity:0}15.23%,85.79%{opacity:1}89.85%,100%{opacity:0}}.l1{opacity:0;animation:s1 9.85s linear infinite}@keyframes c1{0%,14.72%{transform:translateX(0)}23.86%,100%{transform:translateX(473px)}}.c1{animation:c1 9.85s steps(16) infinite}@keyframes s2{0%,23.35%{opacity:0}23.86%,85.79%{opacity:1}89.85%,100%{opacity:0}}.l2{opacity:0;animation:s2 9.85s linear infinite}@keyframes c2{0%,23.35%{transform:translateX(0)}32.49%,100%{transform:translateX(473px)}}.c2{animation:c2 9.85s steps(16) infinite}@keyframes s3{0%,31.98%{opacity:0}32.49%,85.79%{opacity:1}89.85%,100%{opacity:0}}.l3{opacity:0;animation:s3 9.85s linear infinite}@keyframes c3{0%,31.98%{transform:translateX(0)}44.16%,100%{transform:translateX(530px)}}.c3{animation:c3 9.85s steps(22) infinite}@keyframes s4{0%,40.61%{opacity:0}41.12%,85.79%{opacity:1}89.85%,100%{opacity:0}}.l4{opacity:0;animation:s4 9.85s linear infinite}@keyframes c4{0%,40.61%{transform:translateX(0)}48.73%,100%{transform:translateX(454px)}}.c4{animation:c4 9.85s steps(14) infinite}@keyframes bar{0%{transform:scaleX(0)}57.36%,85.79%{transform:scaleX(1)}89.85%,100%{transform:scaleX(0)}}.bar{transform-box:fill-box;transform-origin:left center;animation:bar 9.85s ease-out infinite}@keyframes pulse{0%,100%{opacity:1}50%{opacity:.25}}.dot{animation:pulse 1.6s ease-in-out infinite}
+@media (prefers-reduced-motion: reduce){*{animation:none!important;opacity:1!important;transform:none!important}}
+</style>
+<defs>
+  <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#21262d"/></pattern>
+  <clipPath id="term"><rect x="711" y="111" width="418" height="248"/></clipPath>
+</defs>
+<rect x="1" y="1" width="1198" height="418" rx="20" fill="#0d1117" stroke="#30363d"/>
+<rect x="640" y="2" width="557" height="416" fill="url(#dots)" opacity=".7"/>
+<g transform="translate(60,62)">
+  <rect width="22" height="22" rx="6" fill="none" stroke="#58a6ff" stroke-width="2"/>
+  <text x="11" y="16" text-anchor="middle" class="mono" style="font-size:12px;font-weight:700" fill="#58a6ff">&lt;/&gt;</text>
+  <text x="36" y="16" class="mono" style="font-size:12px;letter-spacing:2.5px" fill="#7d8590">KDSABELLA  /  FULL STACK  /  FREELANCE</text>
+</g>
+<text x="58" y="182" class="sans" font-size="54" font-weight="700" fill="#e6edf3" letter-spacing="-1">Full stack apps,</text>
+<text x="58" y="248" class="sans" font-size="54" font-weight="700" fill="#e6edf3" letter-spacing="-1"><tspan fill="#58a6ff">shipped</tspan> end to end.</text>
+<text x="60" y="318" class="sans" font-size="18" fill="#c9d1d9">Ken Domenick Sabella · .NET Core APIs · Angular front ends</text>
+<rect x="710" y="60" width="420" height="300" rx="12" fill="#010409" stroke="#30363d"/>
+<line x1="710" y1="110" x2="1130" y2="110" stroke="#30363d"/>
+<text x="732" y="91" class="mono" style="font-size:14px" fill="#e6edf3">deploy.log</text>
+<circle class="dot" cx="1063" cy="86" r="4" fill="#3fb950"/>
+<text x="1110" y="91" class="mono" style="font-size:13px" text-anchor="end" fill="#3fb950">live</text>
+<g clip-path="url(#term)"><g class="l0"><text x="732" y="138" class="mono" fill="#d29922">client</text><text x="806" y="138" class="mono" fill="#e6edf3">LinkHQ</text><circle class="dot" cx="1107" cy="133" r="4" fill="#d29922"/><rect class="c0" x="804" y="122" width="340" height="21" fill="#010409"/></g><g class="l1"><text x="732" y="174" class="mono" fill="#d29922">client</text><text x="806" y="174" class="mono" fill="#e6edf3">LinkHQ-Website</text><circle class="dot" cx="1107" cy="169" r="4" fill="#d29922"/><rect class="c1" x="804" y="158" width="340" height="21" fill="#010409"/></g><g class="l2"><text x="732" y="210" class="mono" fill="#d29922">client</text><text x="806" y="210" class="mono" fill="#e6edf3">finance-system</text><circle class="dot" cx="1107" cy="205" r="4" fill="#d29922"/><rect class="c2" x="804" y="194" width="340" height="21" fill="#010409"/></g><g class="l3"><text x="732" y="246" class="mono" fill="#d29922">client</text><text x="806" y="246" class="mono" fill="#e6edf3">Generator-Landing-AI</text><circle class="dot" cx="1107" cy="241" r="4" fill="#d29922"/><rect class="c3" x="804" y="230" width="340" height="21" fill="#010409"/></g><g class="l4"><text x="732" y="282" class="mono" fill="#7d8590">next</text><text x="806" y="282" class="mono" fill="#58a6ff">your project</text><text x="1112" y="282" class="mono" text-anchor="end" fill="#58a6ff">&#8594;</text><rect class="c4" x="804" y="266" width="340" height="21" fill="#010409"/></g></g>
+<rect x="732" y="344" width="376" height="3" rx="1.5" fill="#21262d"/>
+<rect class="bar" x="732" y="344" width="376" height="3" rx="1.5" fill="#3fb950"/>
+</svg>
