@@ -8,12 +8,12 @@ Hi, I'm Ken. I'm a full stack developer and freelancer. I build **.NET Core** AP
 
 ## Client work
 
-Private repos I'm building for clients right now. The code isn't public, so there are no links.
+Products I'm building for clients right now. The code is private, but you can see the live products.
 
-- **Link Solutions · LinkHQ** - the main LinkHQ app
-- **Link Solutions · LinkHQ Website** - the LinkHQ marketing site
-- **Finance System** - a finance management system
-- **Generator Landing AI** - an AI generator landing page
+- [LinkHQ](https://www.linkhq.com/) - practice management for accounting firms on fixed fees: workflow, capacity, WIP and job budgets. App and marketing site (Link Solutions)
+- [Kikliq](https://kikliq.com/) - all-in-one automation for dental practices: ad ROI dashboard, patient messaging and Google reviews
+- [Generator Landing](https://www.generatorlanding.com/) - AI platform that builds landing pages, ads and lead magnets, with an AI sales setter and CRM for WhatsApp, Instagram and Messenger
+- **Finance System** - a finance management system (private)
 
 ## Projects
 
